@@ -1,2 +1,2 @@
-# Nvidia_stock_market_evolution
-Google Sheets analysis on the performance of NVIDIA shares in 2023
+# Evolution of NVIDIA stock market shares in 2023
+
